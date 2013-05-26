@@ -1,0 +1,4 @@
+Development:
+
+npm dependencies:
+- karma - unit testing framework for browser javascript
